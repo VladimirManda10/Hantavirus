@@ -1,0 +1,39 @@
+[project]
+name = "hantavirus-seminarski"
+version = "0.1.0"
+description = ""
+authors = [
+    {name = "VladimirManda10",email = "vladimir.mandaleone10@gmail.com"}
+]
+requires-python = ">=3.12"
+dependencies = [
+    "biopython (>=1.88,<2.0)",
+    "pandas (>=3.0.5,<4.0.0)",
+    "numpy (>=2.5.2,<3.0.0)",
+    "scikit-learn (>=1.9.0,<2.0.0)",
+    "matplotlib (>=3.11.1,<4.0.0)",
+    "seaborn (>=0.13.2,<0.14.0)"
+]
+
+
+[build-system]
+requires = ["poetry-core>=2.0.0,<3.0.0"]
+build-backend = "poetry.core.masonry.api"
+
+[dependency-groups]
+dev = [
+    "jupyter (>=1.1.1,<2.0.0)",
+    "ipykernel (>=7.3.0,<8.0.0)",
+    "black (>=26.5.1,<27.0.0)",
+    "isort (>=8.0.1,<9.0.0)",
+    "flake8 (>=7.3.0,<8.0.0)",
+    "pre-commit (>=4.6.2,<5.0.0)"
+]
+
+[tool.black]
+line-length = 100
+target-version = ["py312"]
+
+[tool.isort]
+profile = "black"
+line_length = 100
