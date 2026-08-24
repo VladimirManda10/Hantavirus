@@ -1,0 +1,367 @@
+Input file is ../../../../data/filtered/hantanense_complete_N.fasta.
+Minimal fragment length is 3.
+Working with protein sequence.
+Working with probability estimation.
+P value is : 0.050000.
+Printing all instances.
+Looking for direct non-complementary repeats.
+XXN76615.1 Alphabet size is 20.
+Input sequence has 0 letters that are not in expected alphabet.
+
+
+XHP16150.1 Alphabet size is 20.
+Input sequence has 0 letters that are not in expected alphabet.
+
+
+XHP16149.1 Alphabet size is 20.
+Input sequence has 0 letters that are not in expected alphabet.
+
+
+XHP16148.1 Alphabet size is 20.
+Input sequence has 0 letters that are not in expected alphabet.
+
+
+XHP16147.1 Alphabet size is 20.
+Input sequence has 0 letters that are not in expected alphabet.
+
+
+XHP16146.1 Alphabet size is 20.
+Input sequence has 0 letters that are not in expected alphabet.
+
+
+XHP16145.1 Alphabet size is 20.
+Input sequence has 0 letters that are not in expected alphabet.
+
+
+XHP16144.1 Alphabet size is 20.
+Input sequence has 0 letters that are not in expected alphabet.
+
+
+XHP16143.1 Alphabet size is 20.
+Input sequence has 0 letters that are not in expected alphabet.
+
+
+XHP16142.1 Alphabet size is 20.
+Input sequence has 0 letters that are not in expected alphabet.
+
+
+XHP16141.1 Alphabet size is 20.
+Input sequence has 0 letters that are not in expected alphabet.
+
+
+XHP16140.1 Alphabet size is 20.
+Input sequence has 0 letters that are not in expected alphabet.
+
+
+XHP16139.1 Alphabet size is 20.
+Input sequence has 0 letters that are not in expected alphabet.
+
+
+XHP16138.1 Alphabet size is 20.
+Input sequence has 0 letters that are not in expected alphabet.
+
+
+XHP16137.1 Alphabet size is 20.
+Input sequence has 0 letters that are not in expected alphabet.
+
+
+XHP16136.1 Alphabet size is 20.
+Input sequence has 0 letters that are not in expected alphabet.
+
+
+XBC17293.1 Alphabet size is 20.
+Input sequence has 0 letters that are not in expected alphabet.
+
+
+XBC17290.1 Alphabet size is 20.
+Input sequence has 0 letters that are not in expected alphabet.
+
+
+XBC17287.1 Alphabet size is 20.
+Input sequence has 0 letters that are not in expected alphabet.
+
+
+XBC17285.1 Alphabet size is 20.
+Input sequence has 0 letters that are not in expected alphabet.
+
+
+XBC17284.1 Alphabet size is 20.
+Input sequence has 0 letters that are not in expected alphabet.
+
+
+XBC17283.1 Alphabet size is 20.
+Input sequence has 0 letters that are not in expected alphabet.
+
+
+XBC17282.1 Alphabet size is 20.
+Input sequence has 0 letters that are not in expected alphabet.
+
+
+XBC17281.1 Alphabet size is 20.
+Input sequence has 0 letters that are not in expected alphabet.
+
+
+XBC17280.1 Alphabet size is 20.
+Input sequence has 0 letters that are not in expected alphabet.
+
+
+XBC17279.1 Alphabet size is 20.
+Input sequence has 0 letters that are not in expected alphabet.
+
+
+XBC17278.1 Alphabet size is 20.
+Input sequence has 0 letters that are not in expected alphabet.
+
+
+XBC17277.1 Alphabet size is 20.
+Input sequence has 0 letters that are not in expected alphabet.
+
+
+WOW72513.1 Alphabet size is 20.
+Input sequence has 0 letters that are not in expected alphabet.
+
+
+QIC37952.1 Alphabet size is 20.
+Input sequence has 0 letters that are not in expected alphabet.
+
+
+QIC37951.1 Alphabet size is 20.
+Input sequence has 0 letters that are not in expected alphabet.
+
+
+QIC37950.1 Alphabet size is 20.
+Input sequence has 0 letters that are not in expected alphabet.
+
+
+QIC37949.1 Alphabet size is 20.
+Input sequence has 0 letters that are not in expected alphabet.
+
+
+QIC37948.1 Alphabet size is 20.
+Input sequence has 0 letters that are not in expected alphabet.
+
+
+QIC37947.1 Alphabet size is 20.
+Input sequence has 0 letters that are not in expected alphabet.
+
+
+QIC37946.1 Alphabet size is 20.
+Input sequence has 0 letters that are not in expected alphabet.
+
+
+QIC37945.1 Alphabet size is 20.
+Input sequence has 0 letters that are not in expected alphabet.
+
+
+QIC37944.1 Alphabet size is 20.
+Input sequence has 0 letters that are not in expected alphabet.
+
+
+QIC37943.1 Alphabet size is 20.
+Input sequence has 0 letters that are not in expected alphabet.
+
+
+QIC37942.1 Alphabet size is 20.
+Input sequence has 0 letters that are not in expected alphabet.
+
+
+QIC37941.1 Alphabet size is 20.
+Input sequence has 0 letters that are not in expected alphabet.
+
+
+QIC37940.1 Alphabet size is 20.
+Input sequence has 0 letters that are not in expected alphabet.
+
+
+QIC37939.1 Alphabet size is 20.
+Input sequence has 0 letters that are not in expected alphabet.
+
+
+QIC37938.1 Alphabet size is 20.
+Input sequence has 0 letters that are not in expected alphabet.
+
+
+QIC37937.1 Alphabet size is 20.
+Input sequence has 0 letters that are not in expected alphabet.
+
+
+QFX79445.1 Alphabet size is 20.
+Input sequence has 0 letters that are not in expected alphabet.
+
+
+QFX79444.1 Alphabet size is 20.
+Input sequence has 0 letters that are not in expected alphabet.
+
+
+QFX79443.1 Alphabet size is 20.
+Input sequence has 0 letters that are not in expected alphabet.
+
+
+QFX79442.1 Alphabet size is 20.
+Input sequence has 0 letters that are not in expected alphabet.
+
+
+QFX79441.1 Alphabet size is 20.
+Input sequence has 0 letters that are not in expected alphabet.
+
+
+QFX79440.1 Alphabet size is 20.
+Input sequence has 0 letters that are not in expected alphabet.
+
+
+QFX79439.1 Alphabet size is 20.
+Input sequence has 0 letters that are not in expected alphabet.
+
+
+QFX79438.1 Alphabet size is 20.
+Input sequence has 0 letters that are not in expected alphabet.
+
+
+QFX79437.1 Alphabet size is 20.
+Input sequence has 0 letters that are not in expected alphabet.
+
+
+QFX79418.1 Alphabet size is 20.
+Input sequence has 0 letters that are not in expected alphabet.
+
+
+QFX79417.1 Alphabet size is 20.
+Input sequence has 0 letters that are not in expected alphabet.
+
+
+QFX79416.1 Alphabet size is 20.
+Input sequence has 0 letters that are not in expected alphabet.
+
+
+QFX79415.1 Alphabet size is 20.
+Input sequence has 0 letters that are not in expected alphabet.
+
+
+QFX79414.1 Alphabet size is 20.
+Input sequence has 0 letters that are not in expected alphabet.
+
+
+QFX79413.1 Alphabet size is 20.
+Input sequence has 0 letters that are not in expected alphabet.
+
+
+QFX79412.1 Alphabet size is 20.
+Input sequence has 0 letters that are not in expected alphabet.
+
+
+QFX79411.1 Alphabet size is 20.
+Input sequence has 0 letters that are not in expected alphabet.
+
+
+QFX79410.1 Alphabet size is 20.
+Input sequence has 0 letters that are not in expected alphabet.
+
+
+AVV65742.1 Alphabet size is 20.
+Input sequence has 0 letters that are not in expected alphabet.
+
+
+ARO49443.1 Alphabet size is 20.
+Input sequence has 0 letters that are not in expected alphabet.
+
+
+ARO49442.1 Alphabet size is 20.
+Input sequence has 0 letters that are not in expected alphabet.
+
+
+ARO49441.1 Alphabet size is 20.
+Input sequence has 0 letters that are not in expected alphabet.
+
+
+APH07639.1 Alphabet size is 20.
+Input sequence has 0 letters that are not in expected alphabet.
+
+
+APH07638.1 Alphabet size is 20.
+Input sequence has 0 letters that are not in expected alphabet.
+
+
+APH07637.1 Alphabet size is 20.
+Input sequence has 0 letters that are not in expected alphabet.
+
+
+APH07636.1 Alphabet size is 20.
+Input sequence has 0 letters that are not in expected alphabet.
+
+
+APH07635.1 Alphabet size is 20.
+Input sequence has 0 letters that are not in expected alphabet.
+
+
+ALI59823.1 Alphabet size is 20.
+Input sequence has 0 letters that are not in expected alphabet.
+
+
+AGC97106.1 Alphabet size is 20.
+Input sequence has 0 letters that are not in expected alphabet.
+
+
+AFM85165.1 Alphabet size is 20.
+Input sequence has 0 letters that are not in expected alphabet.
+
+
+ABS83830.1 Alphabet size is 20.
+Input sequence has 0 letters that are not in expected alphabet.
+
+
+ABS83829.1 Alphabet size is 20.
+Input sequence has 0 letters that are not in expected alphabet.
+
+
+ABS83828.1 Alphabet size is 20.
+Input sequence has 0 letters that are not in expected alphabet.
+
+
+ABS83827.1 Alphabet size is 20.
+Input sequence has 0 letters that are not in expected alphabet.
+
+
+ABS83826.1 Alphabet size is 20.
+Input sequence has 0 letters that are not in expected alphabet.
+
+
+ABS83825.1 Alphabet size is 20.
+Input sequence has 0 letters that are not in expected alphabet.
+
+
+ABS83824.1 Alphabet size is 20.
+Input sequence has 0 letters that are not in expected alphabet.
+
+
+ABS83823.1 Alphabet size is 20.
+Input sequence has 0 letters that are not in expected alphabet.
+
+
+ABS83822.1 Alphabet size is 20.
+Input sequence has 0 letters that are not in expected alphabet.
+
+
+ABS83821.1 Alphabet size is 20.
+Input sequence has 0 letters that are not in expected alphabet.
+
+
+ABS83820.1 Alphabet size is 20.
+Input sequence has 0 letters that are not in expected alphabet.
+
+
+ABS83819.1 Alphabet size is 20.
+Input sequence has 0 letters that are not in expected alphabet.
+
+
+ABN48566.1 Alphabet size is 20.
+Input sequence has 0 letters that are not in expected alphabet.
+
+
+ABL73888.1 Alphabet size is 20.
+Input sequence has 0 letters that are not in expected alphabet.
+
+
+AAG60259.1 Alphabet size is 20.
+Input sequence has 0 letters that are not in expected alphabet.
+
+

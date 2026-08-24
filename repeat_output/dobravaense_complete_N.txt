@@ -1,0 +1,124 @@
+Input file is ../../../../data/filtered/dobravaense_complete_N.fasta.
+Minimal fragment length is 3.
+Working with protein sequence.
+Working with probability estimation.
+P value is : 0.050000.
+Printing all instances.
+Looking for direct non-complementary repeats.
+UTK64191.1 Alphabet size is 20.
+Input sequence has 0 letters that are not in expected alphabet.
+UTK64191.1,227,230,272,275,4,ALAK,ALAK
+UTK64191.1,23,26,416,419,4,QKVK,QKVK
+
+Total for length 4 is 2.
+
+UTK64188.1 Alphabet size is 20.
+Input sequence has 0 letters that are not in expected alphabet.
+UTK64188.1,227,230,272,275,4,ALAK,ALAK
+UTK64188.1,23,26,416,419,4,QKVK,QKVK
+
+Total for length 4 is 2.
+
+NP_942553.1 Alphabet size is 20.
+Input sequence has 0 letters that are not in expected alphabet.
+NP_942553.1,227,230,272,275,4,ALAK,ALAK
+NP_942553.1,23,26,416,419,4,QKVK,QKVK
+
+Total for length 4 is 2.
+
+ALP44174.1 Alphabet size is 20.
+Input sequence has 0 letters that are not in expected alphabet.
+
+
+ALP44173.1 Alphabet size is 20.
+Input sequence has 0 letters that are not in expected alphabet.
+
+
+ALP44172.1 Alphabet size is 20.
+Input sequence has 0 letters that are not in expected alphabet.
+
+
+ALI59817.1 Alphabet size is 20.
+Input sequence has 0 letters that are not in expected alphabet.
+ALI59817.1,227,230,272,275,4,ALAK,ALAK
+ALI59817.1,23,26,416,419,4,QKVK,QKVK
+
+Total for length 4 is 2.
+
+AFI98396.1 Alphabet size is 20.
+Input sequence has 0 letters that are not in expected alphabet.
+AFI98396.1,227,230,272,275,4,ALAK,ALAK
+AFI98396.1,23,26,416,419,4,QKVK,QKVK
+
+Total for length 4 is 2.
+
+ADA68887.1 Alphabet size is 20.
+Input sequence has 0 letters that are not in expected alphabet.
+ADA68887.1,227,230,272,275,4,ALAK,ALAK
+ADA68887.1,23,26,416,419,4,QKVK,QKVK
+
+Total for length 4 is 2.
+
+ADA68886.1 Alphabet size is 20.
+Input sequence has 0 letters that are not in expected alphabet.
+ADA68886.1,227,230,272,275,4,ALAK,ALAK
+ADA68886.1,23,26,416,419,4,QKVK,QKVK
+
+Total for length 4 is 2.
+
+ADA68885.1 Alphabet size is 20.
+Input sequence has 0 letters that are not in expected alphabet.
+ADA68885.1,227,230,272,275,4,ALAK,ALAK
+ADA68885.1,23,26,416,419,4,QKVK,QKVK
+
+Total for length 4 is 2.
+
+ADA68884.1 Alphabet size is 20.
+Input sequence has 0 letters that are not in expected alphabet.
+ADA68884.1,227,230,272,275,4,ALAK,ALAK
+ADA68884.1,23,26,416,419,4,QKVK,QKVK
+
+Total for length 4 is 2.
+
+ADA68883.1 Alphabet size is 20.
+Input sequence has 0 letters that are not in expected alphabet.
+ADA68883.1,227,230,272,275,4,ALAK,ALAK
+ADA68883.1,23,26,416,419,4,QKVK,QKVK
+
+Total for length 4 is 2.
+
+ADA68882.1 Alphabet size is 20.
+Input sequence has 0 letters that are not in expected alphabet.
+ADA68882.1,227,230,272,275,4,ALAK,ALAK
+ADA68882.1,23,26,416,419,4,QKVK,QKVK
+
+Total for length 4 is 2.
+
+ADA68881.1 Alphabet size is 20.
+Input sequence has 0 letters that are not in expected alphabet.
+ADA68881.1,227,230,272,275,4,ALAK,ALAK
+ADA68881.1,23,26,416,419,4,QKVK,QKVK
+
+Total for length 4 is 2.
+
+ADA68880.1 Alphabet size is 20.
+Input sequence has 0 letters that are not in expected alphabet.
+ADA68880.1,227,230,272,275,4,ALAK,ALAK
+ADA68880.1,23,26,416,419,4,QKVK,QKVK
+
+Total for length 4 is 2.
+
+AAY27874.1 Alphabet size is 20.
+Input sequence has 0 letters that are not in expected alphabet.
+AAY27874.1,227,230,272,275,4,ALAK,ALAK
+AAY27874.1,23,26,416,419,4,QKVK,QKVK
+
+Total for length 4 is 2.
+
+AAC06331.1 Alphabet size is 20.
+Input sequence has 0 letters that are not in expected alphabet.
+AAC06331.1,227,230,272,275,4,ALAK,ALAK
+AAC06331.1,23,26,416,419,4,QKVK,QKVK
+
+Total for length 4 is 2.
+

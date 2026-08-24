@@ -1,0 +1,82 @@
+Input file is ../../../../data/filtered/sinnombreense_complete_N.fasta.
+Minimal fragment length is 3.
+Working with protein sequence.
+Working with probability estimation.
+P value is : 0.050000.
+Printing all instances.
+Looking for direct non-complementary repeats.
+YP_010839201.1 Alphabet size is 20.
+Input sequence has 0 letters that are not in expected alphabet.
+YP_010839201.1,67,70,282,285,4,DLIA,DLIA
+YP_010839201.1,63,66,406,409,4,RELA,RELA
+
+Total for length 4 is 2.
+
+NP_941975.1 Alphabet size is 20.
+Input sequence has 0 letters that are not in expected alphabet.
+NP_941975.1,67,70,282,285,4,DLIA,DLIA
+NP_941975.1,63,66,406,409,4,RELA,RELA
+
+Total for length 4 is 2.
+
+AUZ98441.1 Alphabet size is 20.
+Input sequence has 0 letters that are not in expected alphabet.
+AUZ98441.1,137,139,318,320,3,ALY,ALY
+AUZ98441.1,208,210,270,272,3,AQV,AQV
+AUZ98441.1,75,77,343,345,3,ASK,ASK
+AUZ98441.1,38,40,103,105,3,DVN,DVN
+AUZ98441.1,129,131,331,333,3,FAI,FAI
+AUZ98441.1,133,135,380,382,3,IIL,IIL
+AUZ98441.1,26,28,254,256,3,KDA,KDA
+AUZ98441.1,24,26,353,355,3,KLK,KLK
+AUZ98441.1,4,6,90,92,3,LKE,LKE
+AUZ98441.1,138,140,382,384,3,LYM,LYM
+AUZ98441.1,177,179,319,321,3,LYV,LYV
+AUZ98441.1,36,38,86,88,3,PDD,PDD
+AUZ98441.1,325,327,403,405,3,PEL,PEL
+AUZ98441.1,182,184,316,318,3,PTA,PTA
+AUZ98441.1,23,25,72,74,3,QKL,QKL
+AUZ98441.1,243,245,313,315,3,RCP,RCP
+AUZ98441.1,2,4,42,44,3,STL,STL
+AUZ98441.1,285,287,413,415,3,VDA,VDA
+AUZ98441.1,149,151,417,419,3,VKE,VKE
+
+Total for length 3 is 19.
+
+ALI59820.1 Alphabet size is 20.
+Input sequence has 0 letters that are not in expected alphabet.
+ALI59820.1,137,139,318,320,3,ALY,ALY
+ALI59820.1,75,77,343,345,3,ASK,ASK
+ALI59820.1,67,70,282,285,4,DLIA,DLIA
+ALI59820.1,38,40,103,105,3,DVN,DVN
+ALI59820.1,133,135,380,382,3,IIL,IIL
+ALI59820.1,24,26,353,355,3,KLK,KLK
+ALI59820.1,4,6,90,92,3,LKE,LKE
+ALI59820.1,138,140,382,384,3,LYM,LYM
+ALI59820.1,177,179,319,321,3,LYV,LYV
+ALI59820.1,36,38,86,88,3,PDD,PDD
+ALI59820.1,325,327,403,405,3,PEL,PEL
+ALI59820.1,182,184,316,318,3,PTA,PTA
+ALI59820.1,23,25,72,74,3,QKL,QKL
+ALI59820.1,243,245,313,315,3,RCP,RCP
+ALI59820.1,63,66,406,409,4,RELA,RELA
+ALI59820.1,2,4,42,44,3,STL,STL
+ALI59820.1,21,23,267,269,3,TRQ,TRQ
+
+Total for length 3 is 15.
+Total for length 4 is 2.
+
+AIA08880.1 Alphabet size is 20.
+Input sequence has 0 letters that are not in expected alphabet.
+AIA08880.1,67,70,282,285,4,DLIA,DLIA
+AIA08880.1,63,66,406,409,4,RELA,RELA
+
+Total for length 4 is 2.
+
+AIA08877.1 Alphabet size is 20.
+Input sequence has 0 letters that are not in expected alphabet.
+AIA08877.1,67,70,282,285,4,DLIA,DLIA
+AIA08877.1,63,66,406,409,4,RELA,RELA
+
+Total for length 4 is 2.
+

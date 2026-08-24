@@ -1,0 +1,524 @@
+Input file is ../../../../data/filtered/sinnombreense_all_N.fasta.
+Minimal fragment length is 3.
+Working with protein sequence.
+Working with probability estimation.
+P value is : 0.050000.
+Printing all instances.
+Looking for direct non-complementary repeats.
+YP_010839201.1 Alphabet size is 20.
+Input sequence has 0 letters that are not in expected alphabet.
+YP_010839201.1,67,70,282,285,4,DLIA,DLIA
+YP_010839201.1,63,66,406,409,4,RELA,RELA
+
+Total for length 4 is 2.
+
+YAS81881.1 Alphabet size is 20.
+Input sequence has 0 letters that are not in expected alphabet.
+YAS81881.1,67,70,282,285,4,DLIA,DLIA
+YAS81881.1,63,66,406,409,4,RELA,RELA
+
+Total for length 4 is 2.
+
+YAS81878.1 Alphabet size is 20.
+Input sequence has 0 letters that are not in expected alphabet.
+YAS81878.1,67,70,282,285,4,DLIA,DLIA
+YAS81878.1,63,66,406,409,4,RELA,RELA
+
+Total for length 4 is 2.
+
+YAS81877.1 Alphabet size is 20.
+Input sequence has 0 letters that are not in expected alphabet.
+YAS81877.1,67,70,282,285,4,DLIA,DLIA
+YAS81877.1,63,66,406,409,4,RELA,RELA
+
+Total for length 4 is 2.
+
+YAS81876.1 Alphabet size is 20.
+Input sequence has 0 letters that are not in expected alphabet.
+YAS81876.1,67,70,282,285,4,DLIA,DLIA
+YAS81876.1,63,66,406,409,4,RELA,RELA
+
+Total for length 4 is 2.
+
+YAS81873.1 Alphabet size is 20.
+Input sequence has 0 letters that are not in expected alphabet.
+YAS81873.1,67,70,282,285,4,DLIA,DLIA
+YAS81873.1,63,66,406,409,4,RELA,RELA
+
+Total for length 4 is 2.
+
+XAL72252.1 Alphabet size is 20.
+Input sequence has 0 letters that are not in expected alphabet.
+XAL72252.1,67,70,282,285,4,DLIA,DLIA
+XAL72252.1,63,66,406,409,4,RELA,RELA
+
+Total for length 4 is 2.
+
+XAL72251.1 Alphabet size is 20.
+Input sequence has 0 letters that are not in expected alphabet.
+XAL72251.1,67,70,282,285,4,DLIA,DLIA
+XAL72251.1,63,66,406,409,4,RELA,RELA
+
+Total for length 4 is 2.
+
+XAL72250.1 Alphabet size is 20.
+Input sequence has 0 letters that are not in expected alphabet.
+XAL72250.1,67,70,282,285,4,DLIA,DLIA
+XAL72250.1,63,66,406,409,4,RELA,RELA
+
+Total for length 4 is 2.
+
+XAL72249.1 Alphabet size is 20.
+Input sequence has 0 letters that are not in expected alphabet.
+XAL72249.1,67,70,282,285,4,DLIA,DLIA
+XAL72249.1,63,66,406,409,4,RELA,RELA
+
+Total for length 4 is 2.
+
+XAL72248.1 Alphabet size is 20.
+Input sequence has 0 letters that are not in expected alphabet.
+XAL72248.1,67,70,282,285,4,DLIA,DLIA
+XAL72248.1,63,66,406,409,4,RELA,RELA
+
+Total for length 4 is 2.
+
+XAL72247.1 Alphabet size is 20.
+Input sequence has 0 letters that are not in expected alphabet.
+XAL72247.1,137,139,318,320,3,ALY,ALY
+XAL72247.1,75,77,343,345,3,ASK,ASK
+XAL72247.1,38,40,103,105,3,DVN,DVN
+XAL72247.1,129,131,331,333,3,FAI,FAI
+XAL72247.1,26,28,254,256,3,KDA,KDA
+XAL72247.1,24,26,353,355,3,KLK,KLK
+XAL72247.1,65,67,240,242,3,LAD,LAD
+XAL72247.1,4,6,90,92,3,LKE,LKE
+XAL72247.1,138,140,382,384,3,LYM,LYM
+XAL72247.1,177,179,319,321,3,LYV,LYV
+XAL72247.1,36,38,86,88,3,PDD,PDD
+XAL72247.1,325,327,403,405,3,PEL,PEL
+XAL72247.1,182,184,316,318,3,PTA,PTA
+XAL72247.1,23,25,72,74,3,QKL,QKL
+XAL72247.1,2,4,42,44,3,STL,STL
+XAL72247.1,34,36,79,81,3,VDP,VDP
+
+Total for length 3 is 16.
+
+XAL72246.1 Alphabet size is 20.
+Input sequence has 0 letters that are not in expected alphabet.
+XAL72246.1,67,70,282,285,4,DLIA,DLIA
+XAL72246.1,63,66,406,409,4,RELA,RELA
+
+Total for length 4 is 2.
+
+XAL72245.1 Alphabet size is 20.
+Input sequence has 0 letters that are not in expected alphabet.
+XAL72245.1,67,70,282,285,4,DLIA,DLIA
+XAL72245.1,63,66,406,409,4,RELA,RELA
+
+Total for length 4 is 2.
+
+XAL72244.1 Alphabet size is 20.
+Input sequence has 0 letters that are not in expected alphabet.
+XAL72244.1,67,70,282,285,4,DLIA,DLIA
+XAL72244.1,63,66,406,409,4,RELA,RELA
+
+Total for length 4 is 2.
+
+XAL72242.1 Alphabet size is 20.
+Input sequence has 0 letters that are not in expected alphabet.
+XAL72242.1,137,139,318,320,3,ALY,ALY
+XAL72242.1,75,77,343,345,3,ASK,ASK
+XAL72242.1,38,40,103,105,3,DVN,DVN
+XAL72242.1,133,135,380,382,3,IIL,IIL
+XAL72242.1,24,26,353,355,3,KLK,KLK
+XAL72242.1,68,70,283,285,3,LIA,LIA
+XAL72242.1,4,6,90,92,3,LKE,LKE
+XAL72242.1,138,140,382,384,3,LYM,LYM
+XAL72242.1,177,179,319,321,3,LYV,LYV
+XAL72242.1,36,38,86,88,3,PDD,PDD
+XAL72242.1,325,327,403,405,3,PEL,PEL
+XAL72242.1,182,184,316,318,3,PTA,PTA
+XAL72242.1,23,25,72,74,3,QKL,QKL
+XAL72242.1,243,245,313,315,3,RCP,RCP
+XAL72242.1,2,4,42,44,3,STL,STL
+
+Total for length 3 is 15.
+
+XAL72241.1 Alphabet size is 20.
+Input sequence has 0 letters that are not in expected alphabet.
+XAL72241.1,67,70,282,285,4,DLIA,DLIA
+XAL72241.1,63,66,406,409,4,RELA,RELA
+
+Total for length 4 is 2.
+
+XAL72240.1 Alphabet size is 20.
+Input sequence has 0 letters that are not in expected alphabet.
+XAL72240.1,137,139,318,320,3,ALY,ALY
+XAL72240.1,75,77,343,345,3,ASK,ASK
+XAL72240.1,67,70,282,285,4,DLIA,DLIA
+XAL72240.1,38,40,103,105,3,DVN,DVN
+XAL72240.1,133,135,380,382,3,IIL,IIL
+XAL72240.1,24,26,353,355,3,KLK,KLK
+XAL72240.1,4,6,90,92,3,LKE,LKE
+XAL72240.1,247,249,324,326,3,LPE,LPE
+XAL72240.1,138,140,382,384,3,LYM,LYM
+XAL72240.1,177,179,319,321,3,LYV,LYV
+XAL72240.1,36,38,86,88,3,PDD,PDD
+XAL72240.1,325,327,403,405,3,PEL,PEL
+XAL72240.1,182,184,316,318,3,PTA,PTA
+XAL72240.1,23,25,72,74,3,QKL,QKL
+XAL72240.1,243,245,313,315,3,RCP,RCP
+XAL72240.1,63,66,406,409,4,RELA,RELA
+XAL72240.1,2,4,42,44,3,STL,STL
+
+Total for length 3 is 15.
+Total for length 4 is 2.
+
+XAL72239.1 Alphabet size is 20.
+Input sequence has 0 letters that are not in expected alphabet.
+XAL72239.1,67,70,282,285,4,DLIA,DLIA
+XAL72239.1,63,66,406,409,4,RELA,RELA
+
+Total for length 4 is 2.
+
+XAL72238.1 Alphabet size is 20.
+Input sequence has 0 letters that are not in expected alphabet.
+XAL72238.1,67,70,282,285,4,DLIA,DLIA
+XAL72238.1,63,66,406,409,4,RELA,RELA
+
+Total for length 4 is 2.
+
+XAL72237.1 Alphabet size is 20.
+Input sequence has 0 letters that are not in expected alphabet.
+XAL72237.1,137,139,318,320,3,ALY,ALY
+XAL72237.1,208,210,270,272,3,AQV,AQV
+XAL72237.1,75,77,343,345,3,ASK,ASK
+XAL72237.1,38,40,103,105,3,DVN,DVN
+XAL72237.1,129,131,331,333,3,FAI,FAI
+XAL72237.1,133,135,380,382,3,IIL,IIL
+XAL72237.1,26,28,254,256,3,KDA,KDA
+XAL72237.1,24,26,353,355,3,KLK,KLK
+XAL72237.1,4,6,90,92,3,LKE,LKE
+XAL72237.1,138,140,382,384,3,LYM,LYM
+XAL72237.1,177,179,319,321,3,LYV,LYV
+XAL72237.1,36,38,86,88,3,PDD,PDD
+XAL72237.1,325,327,403,405,3,PEL,PEL
+XAL72237.1,182,184,316,318,3,PTA,PTA
+XAL72237.1,23,25,72,74,3,QKL,QKL
+XAL72237.1,243,245,313,315,3,RCP,RCP
+XAL72237.1,2,4,42,44,3,STL,STL
+XAL72237.1,285,287,413,415,3,VDA,VDA
+XAL72237.1,149,151,417,419,3,VKE,VKE
+
+Total for length 3 is 19.
+
+XAL72236.1 Alphabet size is 20.
+Input sequence has 0 letters that are not in expected alphabet.
+XAL72236.1,137,139,320,322,3,ALY,ALY
+XAL72236.1,75,77,345,347,3,ASK,ASK
+XAL72236.1,38,40,103,105,3,DVN,DVN
+XAL72236.1,129,131,333,335,3,FAI,FAI
+XAL72236.1,26,28,256,258,3,KDA,KDA
+XAL72236.1,24,26,355,357,3,KLK,KLK
+XAL72236.1,65,67,242,244,3,LAD,LAD
+XAL72236.1,4,6,90,92,3,LKE,LKE
+XAL72236.1,138,140,384,386,3,LYM,LYM
+XAL72236.1,177,179,321,323,3,LYV,LYV
+XAL72236.1,36,38,86,88,3,PDD,PDD
+XAL72236.1,327,329,405,407,3,PEL,PEL
+XAL72236.1,182,184,318,320,3,PTA,PTA
+XAL72236.1,23,25,72,74,3,QKL,QKL
+XAL72236.1,2,4,42,44,3,STL,STL
+XAL72236.1,34,36,79,81,3,VDP,VDP
+XAL72236.1,222,229,234,241,8,WMDRIDDF,WMDRIDDF
+
+Total for length 3 is 16.
+Total for length 8 is 1.
+
+XAL72235.1 Alphabet size is 20.
+Input sequence has 0 letters that are not in expected alphabet.
+XAL72235.1,67,70,282,285,4,DLIA,DLIA
+XAL72235.1,63,66,406,409,4,RELA,RELA
+
+Total for length 4 is 2.
+
+XAL72233.1 Alphabet size is 20.
+Input sequence has 0 letters that are not in expected alphabet.
+XAL72233.1,67,70,282,285,4,DLIA,DLIA
+XAL72233.1,63,66,406,409,4,RELA,RELA
+
+Total for length 4 is 2.
+
+XAL72232.1 Alphabet size is 20.
+Input sequence has 0 letters that are not in expected alphabet.
+XAL72232.1,67,70,282,285,4,DLIA,DLIA
+XAL72232.1,63,66,406,409,4,RELA,RELA
+
+Total for length 4 is 2.
+
+XAL72231.1 Alphabet size is 20.
+Input sequence has 0 letters that are not in expected alphabet.
+XAL72231.1,67,70,282,285,4,DLIA,DLIA
+XAL72231.1,63,66,406,409,4,RELA,RELA
+
+Total for length 4 is 2.
+
+WES12429.1 Alphabet size is 20.
+Input sequence has 0 letters that are not in expected alphabet.
+WES12429.1,67,70,282,285,4,DLIA,DLIA
+WES12429.1,63,66,406,409,4,RELA,RELA
+
+Total for length 4 is 2.
+
+WES12428.1 Alphabet size is 20.
+Input sequence has 0 letters that are not in expected alphabet.
+WES12428.1,67,70,282,285,4,DLIA,DLIA
+WES12428.1,63,66,406,409,4,RELA,RELA
+
+Total for length 4 is 2.
+
+WES12427.1 Alphabet size is 20.
+Input sequence has 0 letters that are not in expected alphabet.
+WES12427.1,67,70,282,285,4,DLIA,DLIA
+WES12427.1,63,66,406,409,4,RELA,RELA
+
+Total for length 4 is 2.
+
+WES12426.1 Alphabet size is 20.
+Input sequence has 0 letters that are not in expected alphabet.
+WES12426.1,67,70,282,285,4,DLIA,DLIA
+WES12426.1,63,66,406,409,4,RELA,RELA
+
+Total for length 4 is 2.
+
+WES12425.1 Alphabet size is 20.
+Input sequence has 0 letters that are not in expected alphabet.
+WES12425.1,67,70,282,285,4,DLIA,DLIA
+WES12425.1,63,66,406,409,4,RELA,RELA
+
+Total for length 4 is 2.
+
+WES12424.1 Alphabet size is 20.
+Input sequence has 0 letters that are not in expected alphabet.
+WES12424.1,67,70,282,285,4,DLIA,DLIA
+WES12424.1,63,66,406,409,4,RELA,RELA
+
+Total for length 4 is 2.
+
+WES12423.1 Alphabet size is 20.
+Input sequence has 0 letters that are not in expected alphabet.
+WES12423.1,67,70,282,285,4,DLIA,DLIA
+WES12423.1,63,66,406,409,4,RELA,RELA
+
+Total for length 4 is 2.
+
+UCR73872.1 Alphabet size is 20.
+Input sequence has 0 letters that are not in expected alphabet.
+
+
+NP_941975.1 Alphabet size is 20.
+Input sequence has 0 letters that are not in expected alphabet.
+NP_941975.1,67,70,282,285,4,DLIA,DLIA
+NP_941975.1,63,66,406,409,4,RELA,RELA
+
+Total for length 4 is 2.
+
+AUZ98441.1 Alphabet size is 20.
+Input sequence has 0 letters that are not in expected alphabet.
+AUZ98441.1,137,139,318,320,3,ALY,ALY
+AUZ98441.1,208,210,270,272,3,AQV,AQV
+AUZ98441.1,75,77,343,345,3,ASK,ASK
+AUZ98441.1,38,40,103,105,3,DVN,DVN
+AUZ98441.1,129,131,331,333,3,FAI,FAI
+AUZ98441.1,133,135,380,382,3,IIL,IIL
+AUZ98441.1,26,28,254,256,3,KDA,KDA
+AUZ98441.1,24,26,353,355,3,KLK,KLK
+AUZ98441.1,4,6,90,92,3,LKE,LKE
+AUZ98441.1,138,140,382,384,3,LYM,LYM
+AUZ98441.1,177,179,319,321,3,LYV,LYV
+AUZ98441.1,36,38,86,88,3,PDD,PDD
+AUZ98441.1,325,327,403,405,3,PEL,PEL
+AUZ98441.1,182,184,316,318,3,PTA,PTA
+AUZ98441.1,23,25,72,74,3,QKL,QKL
+AUZ98441.1,243,245,313,315,3,RCP,RCP
+AUZ98441.1,2,4,42,44,3,STL,STL
+AUZ98441.1,285,287,413,415,3,VDA,VDA
+AUZ98441.1,149,151,417,419,3,VKE,VKE
+
+Total for length 3 is 19.
+
+ALI59820.1 Alphabet size is 20.
+Input sequence has 0 letters that are not in expected alphabet.
+ALI59820.1,137,139,318,320,3,ALY,ALY
+ALI59820.1,75,77,343,345,3,ASK,ASK
+ALI59820.1,67,70,282,285,4,DLIA,DLIA
+ALI59820.1,38,40,103,105,3,DVN,DVN
+ALI59820.1,133,135,380,382,3,IIL,IIL
+ALI59820.1,24,26,353,355,3,KLK,KLK
+ALI59820.1,4,6,90,92,3,LKE,LKE
+ALI59820.1,138,140,382,384,3,LYM,LYM
+ALI59820.1,177,179,319,321,3,LYV,LYV
+ALI59820.1,36,38,86,88,3,PDD,PDD
+ALI59820.1,325,327,403,405,3,PEL,PEL
+ALI59820.1,182,184,316,318,3,PTA,PTA
+ALI59820.1,23,25,72,74,3,QKL,QKL
+ALI59820.1,243,245,313,315,3,RCP,RCP
+ALI59820.1,63,66,406,409,4,RELA,RELA
+ALI59820.1,2,4,42,44,3,STL,STL
+ALI59820.1,21,23,267,269,3,TRQ,TRQ
+
+Total for length 3 is 15.
+Total for length 4 is 2.
+
+AIA08880.1 Alphabet size is 20.
+Input sequence has 0 letters that are not in expected alphabet.
+AIA08880.1,67,70,282,285,4,DLIA,DLIA
+AIA08880.1,63,66,406,409,4,RELA,RELA
+
+Total for length 4 is 2.
+
+AIA08877.1 Alphabet size is 20.
+Input sequence has 0 letters that are not in expected alphabet.
+AIA08877.1,67,70,282,285,4,DLIA,DLIA
+AIA08877.1,63,66,406,409,4,RELA,RELA
+
+Total for length 4 is 2.
+
+AFV71288.1 Alphabet size is 20.
+Input sequence has 0 letters that are not in expected alphabet.
+AFV71288.1,67,70,282,285,4,DLIA,DLIA
+AFV71288.1,63,66,406,409,4,RELA,RELA
+
+Total for length 4 is 2.
+
+AFV71287.1 Alphabet size is 20.
+Input sequence has 0 letters that are not in expected alphabet.
+AFV71287.1,67,70,282,285,4,DLIA,DLIA
+AFV71287.1,63,66,406,409,4,RELA,RELA
+
+Total for length 4 is 2.
+
+AFV71286.1 Alphabet size is 20.
+Input sequence has 0 letters that are not in expected alphabet.
+AFV71286.1,67,70,282,285,4,DLIA,DLIA
+AFV71286.1,63,66,406,409,4,RELA,RELA
+
+Total for length 4 is 2.
+
+AFV71285.1 Alphabet size is 20.
+Input sequence has 0 letters that are not in expected alphabet.
+AFV71285.1,67,70,282,285,4,DLIA,DLIA
+AFV71285.1,63,66,406,409,4,RELA,RELA
+
+Total for length 4 is 2.
+
+AFV71284.1 Alphabet size is 20.
+Input sequence has 0 letters that are not in expected alphabet.
+AFV71284.1,67,70,282,285,4,DLIA,DLIA
+AFV71284.1,63,66,406,409,4,RELA,RELA
+
+Total for length 4 is 2.
+
+AAG03031.1 Alphabet size is 20.
+Input sequence has 0 letters that are not in expected alphabet.
+AAG03031.1,63,66,278,281,4,DLIA,DLIA
+AAG03031.1,59,62,402,405,4,RELA,RELA
+
+Total for length 4 is 2.
+
+AAG03030.1 Alphabet size is 20.
+Input sequence has 0 letters that are not in expected alphabet.
+AAG03030.1,65,68,280,283,4,DLIA,DLIA
+AAG03030.1,61,64,404,407,4,RELA,RELA
+
+Total for length 4 is 2.
+
+AAC55680.1 Alphabet size is 20.
+Input sequence has 0 letters that are not in expected alphabet.
+AAC55680.1,137,139,318,320,3,ALY,ALY
+AAC55680.1,208,210,270,272,3,AQV,AQV
+AAC55680.1,75,77,343,345,3,ASK,ASK
+AAC55680.1,38,40,103,105,3,DVN,DVN
+AAC55680.1,129,131,331,333,3,FAI,FAI
+AAC55680.1,133,135,380,382,3,IIL,IIL
+AAC55680.1,26,28,254,256,3,KDA,KDA
+AAC55680.1,24,26,353,355,3,KLK,KLK
+AAC55680.1,4,6,90,92,3,LKE,LKE
+AAC55680.1,138,140,382,384,3,LYM,LYM
+AAC55680.1,177,179,319,321,3,LYV,LYV
+AAC55680.1,36,38,86,88,3,PDD,PDD
+AAC55680.1,325,327,403,405,3,PEL,PEL
+AAC55680.1,182,184,316,318,3,PTA,PTA
+AAC55680.1,23,25,72,74,3,QKL,QKL
+AAC55680.1,243,245,313,315,3,RCP,RCP
+AAC55680.1,2,4,42,44,3,STL,STL
+AAC55680.1,285,287,413,415,3,VDA,VDA
+AAC55680.1,149,151,417,419,3,VKE,VKE
+
+Total for length 3 is 19.
+
+AAC42203.1 Alphabet size is 20.
+Input sequence has 0 letters that are not in expected alphabet.
+AAC42203.1,67,70,282,285,4,DLIA,DLIA
+AAC42203.1,63,66,406,409,4,RELA,RELA
+
+Total for length 4 is 2.
+
+AAA76589.1 Alphabet size is 20.
+Input sequence has 0 letters that are not in expected alphabet.
+AAA76589.1,137,139,318,320,3,ALY,ALY
+AAA76589.1,208,210,270,272,3,AQV,AQV
+AAA76589.1,75,77,343,345,3,ASK,ASK
+AAA76589.1,38,40,103,105,3,DVN,DVN
+AAA76589.1,129,131,331,333,3,FAI,FAI
+AAA76589.1,133,135,380,382,3,IIL,IIL
+AAA76589.1,26,28,254,256,3,KDA,KDA
+AAA76589.1,24,26,353,355,3,KLK,KLK
+AAA76589.1,4,6,90,92,3,LKE,LKE
+AAA76589.1,138,140,382,384,3,LYM,LYM
+AAA76589.1,177,179,319,321,3,LYV,LYV
+AAA76589.1,36,38,86,88,3,PDD,PDD
+AAA76589.1,325,327,403,405,3,PEL,PEL
+AAA76589.1,182,184,316,318,3,PTA,PTA
+AAA76589.1,23,25,72,74,3,QKL,QKL
+AAA76589.1,243,245,313,315,3,RCP,RCP
+AAA76589.1,2,4,42,44,3,STL,STL
+AAA76589.1,285,287,413,415,3,VDA,VDA
+AAA76589.1,149,151,417,419,3,VKE,VKE
+
+Total for length 3 is 19.
+
+AAA75529.1 Alphabet size is 20.
+Input sequence has 0 letters that are not in expected alphabet.
+AAA75529.1,67,70,282,285,4,DLIA,DLIA
+AAA75529.1,63,66,406,409,4,RELA,RELA
+
+Total for length 4 is 2.
+
+AAA68038.1 Alphabet size is 20.
+Input sequence has 0 letters that are not in expected alphabet.
+AAA68038.1,137,139,318,320,3,ALY,ALY
+AAA68038.1,75,77,343,345,3,ASK,ASK
+AAA68038.1,67,70,282,285,4,DLIA,DLIA
+AAA68038.1,38,40,103,105,3,DVN,DVN
+AAA68038.1,133,135,380,382,3,IIL,IIL
+AAA68038.1,24,26,353,355,3,KLK,KLK
+AAA68038.1,4,6,90,92,3,LKE,LKE
+AAA68038.1,138,140,382,384,3,LYM,LYM
+AAA68038.1,177,179,319,321,3,LYV,LYV
+AAA68038.1,36,38,86,88,3,PDD,PDD
+AAA68038.1,325,327,403,405,3,PEL,PEL
+AAA68038.1,182,184,316,318,3,PTA,PTA
+AAA68038.1,23,25,72,74,3,QKL,QKL
+AAA68038.1,243,245,313,315,3,RCP,RCP
+AAA68038.1,63,66,406,409,4,RELA,RELA
+AAA68038.1,2,4,42,44,3,STL,STL
+AAA68038.1,21,23,267,269,3,TRQ,TRQ
+
+Total for length 3 is 15.
+Total for length 4 is 2.
+
+AAA68037.1 Alphabet size is 20.
+Input sequence has 0 letters that are not in expected alphabet.
+
+

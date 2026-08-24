@@ -1,0 +1,601 @@
+Input file is ../../../../data/filtered/dobravaense_all_N.fasta.
+Minimal fragment length is 3.
+Working with protein sequence.
+Working with probability estimation.
+P value is : 0.050000.
+Printing all instances.
+Looking for direct non-complementary repeats.
+YFI28164.1 Alphabet size is 20.
+Input sequence has 0 letters that are not in expected alphabet.
+YFI28164.1,227,230,272,275,4,ALAK,ALAK
+YFI28164.1,23,26,416,419,4,QKVK,QKVK
+
+Total for length 4 is 2.
+
+YFI28163.1 Alphabet size is 20.
+Input sequence has 0 letters that are not in expected alphabet.
+YFI28163.1,227,230,272,275,4,ALAK,ALAK
+YFI28163.1,23,26,416,419,4,QKVK,QKVK
+
+Total for length 4 is 2.
+
+YFI28162.1 Alphabet size is 20.
+Input sequence has 0 letters that are not in expected alphabet.
+YFI28162.1,227,230,272,275,4,ALAK,ALAK
+YFI28162.1,23,26,416,419,4,QKVK,QKVK
+
+Total for length 4 is 2.
+
+YFI28161.1 Alphabet size is 20.
+Input sequence has 0 letters that are not in expected alphabet.
+YFI28161.1,227,230,272,275,4,ALAK,ALAK
+YFI28161.1,23,26,416,419,4,QKVK,QKVK
+
+Total for length 4 is 2.
+
+UTK64191.1 Alphabet size is 20.
+Input sequence has 0 letters that are not in expected alphabet.
+UTK64191.1,227,230,272,275,4,ALAK,ALAK
+UTK64191.1,23,26,416,419,4,QKVK,QKVK
+
+Total for length 4 is 2.
+
+UTK64188.1 Alphabet size is 20.
+Input sequence has 0 letters that are not in expected alphabet.
+UTK64188.1,227,230,272,275,4,ALAK,ALAK
+UTK64188.1,23,26,416,419,4,QKVK,QKVK
+
+Total for length 4 is 2.
+
+UTI93930.1 Alphabet size is 20.
+Input sequence has 0 letters that are not in expected alphabet.
+UTI93930.1,227,230,272,275,4,ALAK,ALAK
+UTI93930.1,23,26,416,419,4,QKVK,QKVK
+
+Total for length 4 is 2.
+
+UMM61513.1 Alphabet size is 20.
+Input sequence has 0 letters that are not in expected alphabet.
+UMM61513.1,227,230,272,275,4,ALAK,ALAK
+UMM61513.1,23,26,416,419,4,QKVK,QKVK
+
+Total for length 4 is 2.
+
+QQL01622.1 Alphabet size is 20.
+Input sequence has 0 letters that are not in expected alphabet.
+QQL01622.1,227,230,272,275,4,ALAK,ALAK
+QQL01622.1,23,26,416,419,4,QKVK,QKVK
+
+Total for length 4 is 2.
+
+QQD79886.2 Alphabet size is 20.
+Input sequence has 0 letters that are not in expected alphabet.
+QQD79886.2,227,230,272,275,4,ALAK,ALAK
+QQD79886.2,23,26,416,419,4,QKVK,QKVK
+
+Total for length 4 is 2.
+
+QQD79885.2 Alphabet size is 20.
+Input sequence has 0 letters that are not in expected alphabet.
+QQD79885.2,227,230,272,275,4,ALAK,ALAK
+QQD79885.2,23,26,416,419,4,QKVK,QKVK
+
+Total for length 4 is 2.
+
+QQD79884.2 Alphabet size is 20.
+Input sequence has 0 letters that are not in expected alphabet.
+QQD79884.2,227,230,272,275,4,ALAK,ALAK
+QQD79884.2,23,26,416,419,4,QKVK,QKVK
+
+Total for length 4 is 2.
+
+QQD79883.2 Alphabet size is 20.
+Input sequence has 0 letters that are not in expected alphabet.
+QQD79883.2,227,230,272,275,4,ALAK,ALAK
+QQD79883.2,23,26,416,419,4,QKVK,QKVK
+
+Total for length 4 is 2.
+
+QQD79881.1 Alphabet size is 20.
+Input sequence has 0 letters that are not in expected alphabet.
+QQD79881.1,227,230,272,275,4,ALAK,ALAK
+QQD79881.1,23,26,416,419,4,QKVK,QKVK
+
+Total for length 4 is 2.
+
+QPP11575.1 Alphabet size is 20.
+Input sequence has 0 letters that are not in expected alphabet.
+QPP11575.1,227,230,272,275,4,ALAK,ALAK
+QPP11575.1,23,26,416,419,4,QKVK,QKVK
+
+Total for length 4 is 2.
+
+QGM49260.1 Alphabet size is 20.
+Input sequence has 0 letters that are not in expected alphabet.
+QGM49260.1,227,230,272,275,4,ALAK,ALAK
+QGM49260.1,23,26,416,419,4,QKVK,QKVK
+
+Total for length 4 is 2.
+
+QBH69875.1 Alphabet size is 20.
+Input sequence has 0 letters that are not in expected alphabet.
+
+
+NP_942553.1 Alphabet size is 20.
+Input sequence has 0 letters that are not in expected alphabet.
+NP_942553.1,227,230,272,275,4,ALAK,ALAK
+NP_942553.1,23,26,416,419,4,QKVK,QKVK
+
+Total for length 4 is 2.
+
+CAE83602.1 Alphabet size is 20.
+Input sequence has 0 letters that are not in expected alphabet.
+CAE83602.1,227,230,272,275,4,ALAK,ALAK
+CAE83602.1,23,26,416,419,4,QKVK,QKVK
+
+Total for length 4 is 2.
+
+CAC85166.1 Alphabet size is 20.
+Input sequence has 0 letters that are not in expected alphabet.
+CAC85166.1,227,230,272,275,4,ALAK,ALAK
+CAC85166.1,23,26,416,419,4,QKVK,QKVK
+
+Total for length 4 is 2.
+
+CAC85163.1 Alphabet size is 20.
+Input sequence has 0 letters that are not in expected alphabet.
+CAC85163.1,227,230,272,275,4,ALAK,ALAK
+CAC85163.1,23,26,416,419,4,QKVK,QKVK
+
+Total for length 4 is 2.
+
+CAC20115.1 Alphabet size is 20.
+Input sequence has 0 letters that are not in expected alphabet.
+CAC20115.1,227,230,272,275,4,ALAK,ALAK
+CAC20115.1,23,26,416,419,4,QKVK,QKVK
+
+Total for length 4 is 2.
+
+CAC20114.1 Alphabet size is 20.
+Input sequence has 0 letters that are not in expected alphabet.
+CAC20114.1,227,230,272,275,4,ALAK,ALAK
+CAC20114.1,23,26,416,419,4,QKVK,QKVK
+
+Total for length 4 is 2.
+
+CAA10481.1 Alphabet size is 20.
+Input sequence has 0 letters that are not in expected alphabet.
+CAA10481.1,227,230,272,275,4,ALAK,ALAK
+CAA10481.1,23,26,416,419,4,QKVK,QKVK
+
+Total for length 4 is 2.
+
+CAA10480.1 Alphabet size is 20.
+Input sequence has 0 letters that are not in expected alphabet.
+CAA10480.1,227,230,272,275,4,ALAK,ALAK
+CAA10480.1,23,26,416,419,4,QKVK,QKVK
+
+Total for length 4 is 2.
+
+CAA08821.1 Alphabet size is 20.
+Input sequence has 0 letters that are not in expected alphabet.
+
+
+CAA08819.1 Alphabet size is 20.
+Input sequence has 0 letters that are not in expected alphabet.
+
+
+ALP44174.1 Alphabet size is 20.
+Input sequence has 0 letters that are not in expected alphabet.
+
+
+ALP44173.1 Alphabet size is 20.
+Input sequence has 0 letters that are not in expected alphabet.
+
+
+ALP44172.1 Alphabet size is 20.
+Input sequence has 0 letters that are not in expected alphabet.
+
+
+ALI59817.1 Alphabet size is 20.
+Input sequence has 0 letters that are not in expected alphabet.
+ALI59817.1,227,230,272,275,4,ALAK,ALAK
+ALI59817.1,23,26,416,419,4,QKVK,QKVK
+
+Total for length 4 is 2.
+
+AIR07718.1 Alphabet size is 20.
+Input sequence has 0 letters that are not in expected alphabet.
+AIR07718.1,215,218,260,263,4,ALAK,ALAK
+AIR07718.1,11,14,404,407,4,QKVK,QKVK
+
+Total for length 4 is 2.
+
+AGR50907.1 Alphabet size is 20.
+Input sequence has 0 letters that are not in expected alphabet.
+AGR50907.1,227,230,272,275,4,ALAK,ALAK
+AGR50907.1,23,26,416,419,4,QKVK,QKVK
+
+Total for length 4 is 2.
+
+AGR50906.1 Alphabet size is 20.
+Input sequence has 0 letters that are not in expected alphabet.
+
+
+AGR50905.1 Alphabet size is 20.
+Input sequence has 0 letters that are not in expected alphabet.
+AGR50905.1,227,230,272,275,4,ALAK,ALAK
+AGR50905.1,23,26,416,419,4,QKVK,QKVK
+
+Total for length 4 is 2.
+
+AGR50904.1 Alphabet size is 20.
+Input sequence has 0 letters that are not in expected alphabet.
+AGR50904.1,227,230,272,275,4,ALAK,ALAK
+AGR50904.1,23,26,416,419,4,QKVK,QKVK
+
+Total for length 4 is 2.
+
+AGR50903.1 Alphabet size is 20.
+Input sequence has 0 letters that are not in expected alphabet.
+AGR50903.1,227,230,272,275,4,ALAK,ALAK
+AGR50903.1,23,26,416,419,4,QKVK,QKVK
+
+Total for length 4 is 2.
+
+AGR50902.1 Alphabet size is 20.
+Input sequence has 0 letters that are not in expected alphabet.
+AGR50902.1,227,230,272,275,4,ALAK,ALAK
+AGR50902.1,23,26,416,419,4,QKVK,QKVK
+
+Total for length 4 is 2.
+
+AGR50901.1 Alphabet size is 20.
+Input sequence has 0 letters that are not in expected alphabet.
+AGR50901.1,227,230,272,275,4,ALAK,ALAK
+AGR50901.1,23,26,416,419,4,QKVK,QKVK
+
+Total for length 4 is 2.
+
+AGR50900.1 Alphabet size is 20.
+Input sequence has 0 letters that are not in expected alphabet.
+AGR50900.1,227,230,272,275,4,ALAK,ALAK
+AGR50900.1,23,26,416,419,4,QKVK,QKVK
+
+Total for length 4 is 2.
+
+AGO27877.1 Alphabet size is 20.
+Input sequence has 0 letters that are not in expected alphabet.
+AGO27877.1,227,230,272,275,4,ALAK,ALAK
+AGO27877.1,23,26,416,419,4,QKVK,QKVK
+
+Total for length 4 is 2.
+
+AGO27876.1 Alphabet size is 20.
+Input sequence has 0 letters that are not in expected alphabet.
+AGO27876.1,215,218,260,263,4,ALAK,ALAK
+AGO27876.1,11,14,404,407,4,QKVK,QKVK
+
+Total for length 4 is 2.
+
+AGO27875.1 Alphabet size is 20.
+Input sequence has 0 letters that are not in expected alphabet.
+AGO27875.1,227,230,272,275,4,ALAK,ALAK
+AGO27875.1,23,26,416,419,4,QKVK,QKVK
+
+Total for length 4 is 2.
+
+AGO27874.1 Alphabet size is 20.
+Input sequence has 0 letters that are not in expected alphabet.
+AGO27874.1,221,224,266,269,4,ALAK,ALAK
+AGO27874.1,17,20,410,413,4,QKVK,QKVK
+
+Total for length 4 is 2.
+
+AGO27873.1 Alphabet size is 20.
+Input sequence has 0 letters that are not in expected alphabet.
+AGO27873.1,218,221,263,266,4,ALAK,ALAK
+AGO27873.1,14,17,407,410,4,QKVK,QKVK
+
+Total for length 4 is 2.
+
+AGO27872.1 Alphabet size is 20.
+Input sequence has 0 letters that are not in expected alphabet.
+AGO27872.1,227,230,272,275,4,ALAK,ALAK
+AGO27872.1,23,26,416,419,4,QKVK,QKVK
+
+Total for length 4 is 2.
+
+AGO27871.1 Alphabet size is 20.
+Input sequence has 0 letters that are not in expected alphabet.
+AGO27871.1,227,230,272,275,4,ALAK,ALAK
+AGO27871.1,23,26,416,419,4,QKVK,QKVK
+
+Total for length 4 is 2.
+
+AGO27870.1 Alphabet size is 20.
+Input sequence has 0 letters that are not in expected alphabet.
+AGO27870.1,227,230,272,275,4,ALAK,ALAK
+AGO27870.1,23,26,416,419,4,QKVK,QKVK
+
+Total for length 4 is 2.
+
+AGO27869.1 Alphabet size is 20.
+Input sequence has 0 letters that are not in expected alphabet.
+AGO27869.1,227,230,272,275,4,ALAK,ALAK
+AGO27869.1,23,26,416,419,4,QKVK,QKVK
+
+Total for length 4 is 2.
+
+AGO27868.1 Alphabet size is 20.
+Input sequence has 0 letters that are not in expected alphabet.
+AGO27868.1,227,230,272,275,4,ALAK,ALAK
+AGO27868.1,23,26,416,419,4,QKVK,QKVK
+
+Total for length 4 is 2.
+
+AGO27867.1 Alphabet size is 20.
+Input sequence has 0 letters that are not in expected alphabet.
+AGO27867.1,227,230,272,275,4,ALAK,ALAK
+AGO27867.1,23,26,416,419,4,QKVK,QKVK
+
+Total for length 4 is 2.
+
+AGO27866.1 Alphabet size is 20.
+Input sequence has 0 letters that are not in expected alphabet.
+AGO27866.1,227,230,272,275,4,ALAK,ALAK
+AGO27866.1,23,26,416,419,4,QKVK,QKVK
+
+Total for length 4 is 2.
+
+AGO27865.1 Alphabet size is 20.
+Input sequence has 0 letters that are not in expected alphabet.
+AGO27865.1,218,221,263,266,4,ALAK,ALAK
+AGO27865.1,14,17,407,410,4,QKVK,QKVK
+
+Total for length 4 is 2.
+
+AGO27864.1 Alphabet size is 20.
+Input sequence has 0 letters that are not in expected alphabet.
+AGO27864.1,227,230,272,275,4,ALAK,ALAK
+AGO27864.1,23,26,416,419,4,QKVK,QKVK
+
+Total for length 4 is 2.
+
+AGO27863.1 Alphabet size is 20.
+Input sequence has 0 letters that are not in expected alphabet.
+AGO27863.1,224,227,269,272,4,ALAK,ALAK
+AGO27863.1,20,23,413,416,4,QKVK,QKVK
+
+Total for length 4 is 2.
+
+AGO27862.1 Alphabet size is 20.
+Input sequence has 0 letters that are not in expected alphabet.
+AGO27862.1,218,221,263,266,4,ALAK,ALAK
+AGO27862.1,14,17,407,410,4,QKVK,QKVK
+
+Total for length 4 is 2.
+
+AGO27861.1 Alphabet size is 20.
+Input sequence has 0 letters that are not in expected alphabet.
+AGO27861.1,227,230,272,275,4,ALAK,ALAK
+AGO27861.1,23,26,416,419,4,QKVK,QKVK
+
+Total for length 4 is 2.
+
+AGO27860.1 Alphabet size is 20.
+Input sequence has 0 letters that are not in expected alphabet.
+AGO27860.1,227,230,272,275,4,ALAK,ALAK
+AGO27860.1,23,26,416,419,4,QKVK,QKVK
+
+Total for length 4 is 2.
+
+AGO27859.1 Alphabet size is 20.
+Input sequence has 0 letters that are not in expected alphabet.
+AGO27859.1,227,230,272,275,4,ALAK,ALAK
+AGO27859.1,23,26,416,419,4,QKVK,QKVK
+
+Total for length 4 is 2.
+
+AGO27858.1 Alphabet size is 20.
+Input sequence has 0 letters that are not in expected alphabet.
+AGO27858.1,227,230,272,275,4,ALAK,ALAK
+AGO27858.1,23,26,416,419,4,QKVK,QKVK
+
+Total for length 4 is 2.
+
+AFI98396.1 Alphabet size is 20.
+Input sequence has 0 letters that are not in expected alphabet.
+AFI98396.1,227,230,272,275,4,ALAK,ALAK
+AFI98396.1,23,26,416,419,4,QKVK,QKVK
+
+Total for length 4 is 2.
+
+AES92931.1 Alphabet size is 20.
+Input sequence has 0 letters that are not in expected alphabet.
+
+
+AES92930.1 Alphabet size is 20.
+Input sequence has 0 letters that are not in expected alphabet.
+
+
+AES92929.1 Alphabet size is 20.
+Input sequence has 0 letters that are not in expected alphabet.
+
+
+ADP21272.1 Alphabet size is 20.
+Input sequence has 0 letters that are not in expected alphabet.
+ADP21272.1,227,230,272,275,4,ALAK,ALAK
+ADP21272.1,23,26,416,419,4,QKVK,QKVK
+
+Total for length 4 is 2.
+
+ADP21271.1 Alphabet size is 20.
+Input sequence has 0 letters that are not in expected alphabet.
+ADP21271.1,227,230,272,275,4,ALAK,ALAK
+ADP21271.1,23,26,416,419,4,QKVK,QKVK
+
+Total for length 4 is 2.
+
+ADP21270.1 Alphabet size is 20.
+Input sequence has 0 letters that are not in expected alphabet.
+ADP21270.1,227,230,272,275,4,ALAK,ALAK
+ADP21270.1,23,26,416,419,4,QKVK,QKVK
+
+Total for length 4 is 2.
+
+ADP21269.1 Alphabet size is 20.
+Input sequence has 0 letters that are not in expected alphabet.
+ADP21269.1,227,230,272,275,4,ALAK,ALAK
+ADP21269.1,23,26,416,419,4,QKVK,QKVK
+
+Total for length 4 is 2.
+
+ADP21268.1 Alphabet size is 20.
+Input sequence has 0 letters that are not in expected alphabet.
+ADP21268.1,227,230,272,275,4,ALAK,ALAK
+ADP21268.1,23,26,416,419,4,QKVK,QKVK
+
+Total for length 4 is 2.
+
+ADP21267.1 Alphabet size is 20.
+Input sequence has 0 letters that are not in expected alphabet.
+ADP21267.1,227,230,272,275,4,ALAK,ALAK
+ADP21267.1,23,26,416,419,4,QKVK,QKVK
+
+Total for length 4 is 2.
+
+ADA68887.1 Alphabet size is 20.
+Input sequence has 0 letters that are not in expected alphabet.
+ADA68887.1,227,230,272,275,4,ALAK,ALAK
+ADA68887.1,23,26,416,419,4,QKVK,QKVK
+
+Total for length 4 is 2.
+
+ADA68886.1 Alphabet size is 20.
+Input sequence has 0 letters that are not in expected alphabet.
+ADA68886.1,227,230,272,275,4,ALAK,ALAK
+ADA68886.1,23,26,416,419,4,QKVK,QKVK
+
+Total for length 4 is 2.
+
+ADA68885.1 Alphabet size is 20.
+Input sequence has 0 letters that are not in expected alphabet.
+ADA68885.1,227,230,272,275,4,ALAK,ALAK
+ADA68885.1,23,26,416,419,4,QKVK,QKVK
+
+Total for length 4 is 2.
+
+ADA68884.1 Alphabet size is 20.
+Input sequence has 0 letters that are not in expected alphabet.
+ADA68884.1,227,230,272,275,4,ALAK,ALAK
+ADA68884.1,23,26,416,419,4,QKVK,QKVK
+
+Total for length 4 is 2.
+
+ADA68883.1 Alphabet size is 20.
+Input sequence has 0 letters that are not in expected alphabet.
+ADA68883.1,227,230,272,275,4,ALAK,ALAK
+ADA68883.1,23,26,416,419,4,QKVK,QKVK
+
+Total for length 4 is 2.
+
+ADA68882.1 Alphabet size is 20.
+Input sequence has 0 letters that are not in expected alphabet.
+ADA68882.1,227,230,272,275,4,ALAK,ALAK
+ADA68882.1,23,26,416,419,4,QKVK,QKVK
+
+Total for length 4 is 2.
+
+ADA68881.1 Alphabet size is 20.
+Input sequence has 0 letters that are not in expected alphabet.
+ADA68881.1,227,230,272,275,4,ALAK,ALAK
+ADA68881.1,23,26,416,419,4,QKVK,QKVK
+
+Total for length 4 is 2.
+
+ADA68880.1 Alphabet size is 20.
+Input sequence has 0 letters that are not in expected alphabet.
+ADA68880.1,227,230,272,275,4,ALAK,ALAK
+ADA68880.1,23,26,416,419,4,QKVK,QKVK
+
+Total for length 4 is 2.
+
+ACB97683.1 Alphabet size is 20.
+Input sequence has 0 letters that are not in expected alphabet.
+ACB97683.1,218,221,263,266,4,ALAK,ALAK
+ACB97683.1,14,17,407,410,4,QKVK,QKVK
+
+Total for length 4 is 2.
+
+ACB97682.1 Alphabet size is 20.
+Input sequence has 0 letters that are not in expected alphabet.
+ACB97682.1,217,220,262,265,4,ALAK,ALAK
+ACB97682.1,13,16,406,409,4,QKVK,QKVK
+
+Total for length 4 is 2.
+
+ACB97681.1 Alphabet size is 20.
+Input sequence has 0 letters that are not in expected alphabet.
+ACB97681.1,218,221,263,266,4,ALAK,ALAK
+ACB97681.1,14,17,407,410,4,QKVK,QKVK
+
+Total for length 4 is 2.
+
+ABY64969.1 Alphabet size is 20.
+Input sequence has 0 letters that are not in expected alphabet.
+ABY64969.1,227,230,272,275,4,ALAK,ALAK
+ABY64969.1,23,26,416,419,4,QKVK,QKVK
+
+Total for length 4 is 2.
+
+ABY64966.1 Alphabet size is 20.
+Input sequence has 0 letters that are not in expected alphabet.
+
+
+AAY27877.1 Alphabet size is 20.
+Input sequence has 0 letters that are not in expected alphabet.
+AAY27877.1,227,230,272,275,4,ALAK,ALAK
+AAY27877.1,23,26,416,419,4,QKVK,QKVK
+
+Total for length 4 is 2.
+
+AAY27874.1 Alphabet size is 20.
+Input sequence has 0 letters that are not in expected alphabet.
+AAY27874.1,227,230,272,275,4,ALAK,ALAK
+AAY27874.1,23,26,416,419,4,QKVK,QKVK
+
+Total for length 4 is 2.
+
+AAS55388.2 Alphabet size is 20.
+Input sequence has 0 letters that are not in expected alphabet.
+AAS55388.2,227,230,272,275,4,ALAK,ALAK
+AAS55388.2,23,26,416,419,4,QKVK,QKVK
+
+Total for length 4 is 2.
+
+AAS55386.2 Alphabet size is 20.
+Input sequence has 0 letters that are not in expected alphabet.
+AAS55386.2,227,230,272,275,4,ALAK,ALAK
+AAS55386.2,23,26,416,419,4,QKVK,QKVK
+
+Total for length 4 is 2.
+
+AAN75011.1 Alphabet size is 20.
+Input sequence has 0 letters that are not in expected alphabet.
+AAN75011.1,227,230,272,275,4,ALAK,ALAK
+AAN75011.1,23,26,416,419,4,QKVK,QKVK
+
+Total for length 4 is 2.
+
+AAL35892.1 Alphabet size is 20.
+Input sequence has 0 letters that are not in expected alphabet.
+
+
+AAC06331.1 Alphabet size is 20.
+Input sequence has 0 letters that are not in expected alphabet.
+AAC06331.1,227,230,272,275,4,ALAK,ALAK
+AAC06331.1,23,26,416,419,4,QKVK,QKVK
+
+Total for length 4 is 2.
+
