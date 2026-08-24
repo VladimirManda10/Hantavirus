@@ -66,15 +66,27 @@ Grafici se nalaze u direktorijumu `figures/`.
 
 ```text
 Hantavirus/
-├── figures/                # Grafici i vizuelizacije rezultata
-├── .flake8                 # Konfiguracija za proveru Python koda
-├── .gitignore              # Git ignore pravila
-├── .pre-commit-config.yaml # Konfiguracija pre-commit provera
-├── Hantavirus_zapisnik.pdf # Zapisnik sa detaljnim opisom analize i rezultata
-├── README.md               # Dokumentacija projekta
-├── hantavirus.ipynb        # Analiza i eksperimenti
-├── poetry.lock             # Zaključane verzije biblioteka
-└── pyproject.toml          # Konfiguracija Python projekta
+├── data/
+│   ├── raw/
+│   │   ├── dobrava_all.fasta
+│   │   ├── dobrava_complete.fasta
+│   │   ├── hantaan_all.fasta
+│   │   ├── ...
+│   │   └── sinnombre_complete.fasta
+│   └── filtered/
+│       ├── dobravaense_all_GPC.fasta
+│       ├── dobravaense_all_N.fasta
+│       ├── ...
+│       └── sinnombre_complete_N.fasta
+├── figures/
+├── .flake8
+├── .gitignore
+├── .pre-commit-config.yaml
+├── Hantavirus_zapisnik.pdf
+├── hantavirus.ipynb
+├── poetry.lock
+├── pyproject.toml
+└── README.md
 ```
 
 ## Pokretanje

@@ -2,8 +2,6 @@
 __pycache__/
 *.pyc
 .ipynb_checkpoints/
-data/raw/*.fasta
-data/filtered/*.fasta
 repeat_output/
 repeats_tool/
 .idea/
